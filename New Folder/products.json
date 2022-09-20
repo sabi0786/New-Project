@@ -1,0 +1,38 @@
+
+    [
+    {
+       "id": 1,
+       "image": "products-images/Books.jpeg",
+       "name": "William Shakespeare\"",
+       "price": "300.00",
+       "productCode": "202"
+    },
+    {
+        "id": 2,
+        "image": "products-images/Laptop.jpeg",
+        "name": "hp\"",
+        "price": "35000.00",
+        "productCode": "304"
+    },
+    {
+        "id": 3,
+        "image": "products-images/Pen.jpeg",
+        "name": "Butterflow\"",
+        "price": "10.00",
+        "productCode": "404"
+    },
+    {
+        "id": 4,
+        "image": "products-images/Pendrive.jpeg",
+        "name": "Sandisk\"",
+        "price": "500.00",
+        "productCode": "504"
+    },
+    {
+        "id": 5,
+        "image": "products-images/Wireless Speaker.jpeg",
+        "name": "SaleOn\"",
+        "price": "499.00",
+        "productCode": "604"
+    }
+]
